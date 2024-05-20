@@ -2,7 +2,7 @@
 primary : #687EFF
 secondary : #98E4FF
 tertiary : #B6FFFA
-light : #E2E2E2
+light : ##fafafa
 dark: #1E1E1E
 
 */
@@ -141,6 +141,7 @@ footer {
 
 /* skills */
 #skills {
+  background-color: #fafafa;
   height: fit-content;
   text-align: center;
 }
