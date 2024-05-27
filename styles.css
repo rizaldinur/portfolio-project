@@ -166,7 +166,8 @@ footer {
   width: 80%;
   height: 300px;
   object-fit: cover;
-  border: 5px solid #687eff;
+  border: 3px solid #687eff;
+  border-radius: 10px;
   scroll-behavior: smooth;
 }
 
